@@ -2,7 +2,8 @@
 
 ## 🚀 DevOps Engineer | Web Developer | Data Analyst
 
-<img width="1280" height="512" alt="WhatsApp Image 2026-05-06 at 2 24 16 PM" src="https://github.com/user-attachments/assets/2dafcddf-57a9-4014-a2bc-d4cfba0f3d86" />
+<img width="1280" height="511" alt="WhatsApp Image 2026-05-06 at 3 19 44 PM" src="https://github.com/user-attachments/assets/4dd374ca-1946-43c4-9433-e2fe2404ec3b" />
+
 
 ### Welcome to my GitHub! I’m a results-driven DevOps Engineer in training with a strong foundation in web development and data analysis. I enjoy building scalable systems, automating workflows, and turning data into meaningful insights.
 
