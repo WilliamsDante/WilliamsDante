@@ -1,8 +1,9 @@
 ## Hi there,  I'm Williamson 👋
 
+### 🚀 DevOps Engineer | Web Developer | Data Analyst
+
 <img width="1280" height="512" alt="WhatsApp Image 2026-05-06 at 2 24 16 PM" src="https://github.com/user-attachments/assets/2dafcddf-57a9-4014-a2bc-d4cfba0f3d86" />
 
-🚀 DevOps Engineer | Web Developer | Data Analyst
 
 Welcome to my GitHub! I’m a results-driven DevOps Engineer in training with a strong foundation in web development and data analysis. I enjoy building scalable systems, automating workflows, and turning data into meaningful insights.
 
